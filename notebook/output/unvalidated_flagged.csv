@@ -1,0 +1,150 @@
+source,first_name,last_name,practice_name,state,phone,email,linkedin_url,npi,specialty,nppes_validated
+practice_site,Alisha,Key,Marquez Ltd,NY,(411) 444-5428,frankrivers@example.org,,,,False
+practice_site,Kenneth,Simmons,"Evans, Gilbert and Liu",IL,(909) 597-7175,david34@example.org,,,,False
+practice_site,Jeffrey,Smith,Gilbert-Henderson,CA,(742) 012-9337,banderson@example.net,,,,False
+practice_site,Paula,Perez,Leach Group,FL,(333) 056-3515,michael81@example.net,,,,False
+practice_site,Jeffrey,Smith,Webb-Cohen,IL,(909) 180-2907,kelsey42@example.org,,,,False
+practice_site,Earl,Hernandez,Booth PLC,NY,(584) 458-9858,cperry@example.net,,,,False
+practice_site,Curtis,Richardson,Shepard Inc,TX,(606) 705-1390,batessarah@example.net,,,,False
+practice_site,Gary,Frye,Reyes-Garcia,TX,(473) 892-4403,kendrareyes@example.com,,,,False
+practice_site,Scott,Shaw,Molina-Carter,CA,(102) 265-6785,unewton@example.com,,,,False
+practice_site,Gregory,Baldwin,"Taylor, Bradford and Madden",IL,(200) 275-8414,cynthia31@example.com,,,,False
+practice_site,Samuel,Burke,Wilson Inc,TX,(375) 200-1154,ewolf@example.com,,,,False
+practice_site,Briana,Hayes,"Hayes, Hudson and Watson",FL,(206) 027-1042,davismark@example.org,,,,False
+practice_site,Annette,Wade,Thomas Ltd,CA,(683) 206-5200,rallen@example.org,,,,False
+practice_site,Brian,Maldonado,Jimenez and Sons,NY,(775) 257-6955,zunigaaaron@example.com,,,,False
+practice_site,Steven,Rogers,"Webster, Stevens and Aguilar",CA,(043) 195-8373,kevin82@example.net,,,,False
+practice_site,Linda,Robinson,Snow-Daniels,TX,(531) 372-1932,catherine14@example.net,,,,False
+practice_site,Michael,Hampton,Williams-Stephens,FL,(806) 390-0095,jessica98@example.com,,,,False
+practice_site,Kendra,Vargas,"Jackson, Jones and Butler",NY,(325) 727-2324,hharris@example.net,,,,False
+practice_site,David,Ramirez,Barajas Group,TX,(403) 606-0483,fernandezkimberly@example.org,,,,False
+practice_site,Travis,Gallagher,"Green, Jensen and Liu",IL,(318) 254-1866,jonathanmiller@example.org,,,,False
+practice_site,Paul,Huerta,Sims-Cross,IL,(437) 031-9109,jonathanbarnett@example.net,,,,False
+practice_site,Samantha,Contreras,Scott and Sons,TX,(205) 992-5244,thomasmichael@example.net,,,,False
+practice_site,Alyssa,Mclean,Odonnell Ltd,NY,(351) 864-0906,andrea98@example.com,,,,False
+practice_site,Brandon,Schmidt,"Atkinson, Pacheco and Schmidt",FL,(573) 586-9041,janet23@example.org,,,,False
+practice_site,Judith,Patterson,Bowman PLC,CA,(855) 920-0875,donovanmatthew@example.net,,,,False
+practice_site,Courtney,Jimenez,Woods-Stewart,NY,(973) 840-4531,mackkimberly@example.com,,,,False
+practice_site,Todd,Patel,Travis Group,FL,(791) 345-4749,kjones@example.net,,,,False
+practice_site,Joshua,Carroll,Wiley-Summers,NY,(939) 103-5584,bperez@example.com,,,,False
+practice_site,Cory,Payne,Weber-Ortega,IL,(667) 641-0912,barbaraosborne@example.com,,,,False
+practice_site,Heather,Mclaughlin,Garcia-Carter,FL,(546) 475-6536,benjamin10@example.org,,,,False
+practice_site,Teresa,Smith,Rogers Inc,NY,(273) 883-7075,linda67@example.net,,,,False
+practice_site,Nathan,Sullivan,Kelly Ltd,TX,(230) 518-2606,anthonywright@example.org,,,,False
+practice_site,Ronald,Murphy,Mora-Conner,TX,(036) 870-4797,gdavenport@example.net,,,,False
+practice_site,Christopher,Owens,Gordon Ltd,FL,(875) 200-8298,edward20@example.net,,,,False
+practice_site,Elizabeth,Pratt,Kemp PLC,NY,(484) 502-9202,ryanmurphy@example.com,,,,False
+practice_site,Jennifer,Houston,Johnson Ltd,TX,(527) 675-9670,lisawilliams@example.com,,,,False
+practice_site,Amanda,Thomas,Crane Inc,CA,(362) 208-7862,bmartinez@example.net,,,,False
+practice_site,Brooke,Clay,Scott-Moore,TX,(813) 339-2099,lsandoval@example.net,,,,False
+practice_site,Gregory,Wright,Sullivan Ltd,CA,(605) 604-7698,edwardlopez@example.com,,,,False
+practice_site,Patricia,Gibson,Williamson LLC,CA,(208) 798-4930,anthony58@example.org,,,,False
+practice_site,Danielle,Trujillo,Lewis-Duncan,NY,(472) 007-7658,whitney53@example.org,,,,False
+practice_site,Rebecca,Thomas,"Schultz, Hunt and Payne",TX,(033) 302-4840,tracy54@example.com,,,,False
+practice_site,Misty,Stevenson,"Duke, Petty and Ochoa",IL,(857) 111-3648,danielle07@example.org,,,,False
+practice_site,Maria,Bean,Burns Ltd,FL,(252) 303-0878,angel28@example.org,,,,False
+practice_site,Wayne,Johnson,Nguyen Group,IL,(473) 357-7254,princecolleen@example.net,,,,False
+practice_site,Elizabeth,Williams,Garcia-Fernandez,CA,(813) 876-9038,ijimenez@example.org,,,,False
+practice_site,Gregory,Smith,"Smith, Love and Williams",NY,(397) 333-9696,nicholsanna@example.com,,,,False
+practice_site,James,Reed,Palmer-Potts,NY,(902) 921-1248,lisahess@example.com,,,,False
+practice_site,Andrea,Lamb,Stevenson-Martinez,IL,(493) 160-1359,madeline10@example.com,,,,False
+practice_site,Caleb,Johnson,"Cooper, Lee and Burton",NY,(463) 850-3516,darlene10@example.org,,,,False
+practice_site,Michael,Ellis,"Perez, Castro and Lawrence",TX,(471) 796-6556,scottbrian@example.org,,,,False
+practice_site,Jason,Stanley,"Shaffer, Grant and Rodriguez",NY,(794) 893-8672,mcgrathstephen@example.com,,,,False
+practice_site,Cheryl,Rowland,Bailey-Johnson,IL,(130) 628-9380,brian21@example.org,,,,False
+practice_site,Jennifer,Copeland,"Rice, Ramos and Tucker",NY,(982) 700-4577,savannahberg@example.net,,,,False
+practice_site,Darrell,Guzman,Savage Inc,NY,(051) 169-3106,dicksonbrandon@example.net,,,,False
+practice_site,Kristin,Cooper,"Davis, Cooke and Smith",IL,(438) 311-9354,hendersonalison@example.org,,,,False
+practice_site,Michael,Torres,Ball LLC,IL,(080) 141-7959,leonardrichard@example.org,,,,False
+practice_site,Krista,Young,"Burton, Howard and Smith",TX,(687) 628-2659,howardalison@example.org,,,,False
+practice_site,Lisa,Wagner,"Brown, Meyer and Bowman",NY,(048) 020-1305,preeves@example.net,,,,False
+practice_site,Mark,Herman,Cortez Group,NY,(981) 053-8629,zjackson@example.net,,,,False
+practice_site,Lori,Saunders,Gutierrez-Park,FL,(635) 503-2102,amy02@example.org,,,,False
+practice_site,Jill,Jackson,"Parks, Aguilar and Lucero",TX,(444) 255-9613,paulerickson@example.com,,,,False
+practice_site,Ruth,Grant,"Acosta, Daniel and Kennedy",CA,(657) 947-6307,evaughn@example.com,,,,False
+practice_site,Dustin,Sims,Hartman Inc,NY,(238) 933-6215,edward80@example.com,,,,False
+practice_site,Emma,Davis,Martinez LLC,IL,(012) 137-9439,scottmitchell@example.com,,,,False
+practice_site,Meghan,Dickson,"Stewart, Allen and Watkins",NY,(867) 266-3893,kristiholmes@example.org,,,,False
+practice_site,Molly,Williams,Rodriguez-Grant,IL,(454) 539-7537,alexandercook@example.net,,,,False
+practice_site,James,Lee,Davis and Sons,TX,(688) 989-0963,yflowers@example.org,,,,False
+practice_site,Jeff,Hall,Grant-Hernandez,TX,(392) 068-8670,elizabethbrown@example.org,,,,False
+practice_site,Barry,Brown,"Livingston, Johnson and Henderson",CA,(493) 191-4636,melissa32@example.com,,,,False
+practice_site,Ashley,Mills,"Conner, Hayes and Jackson",CA,(289) 817-4469,vhartman@example.org,,,,False
+practice_site,Dawn,Mitchell,"Simpson, Wallace and Barker",NY,(389) 915-3374,rileyadam@example.com,,,,False
+practice_site,Megan,Marquez,Fleming-Ward,TX,(003) 654-9900,idavis@example.net,,,,False
+practice_site,Nicholas,Villarreal,Carter-Brown,TX,(139) 505-4271,timothyrodriguez@example.net,,,,False
+practice_site,Michelle,Williams,Mcbride LLC,IL,(040) 693-3069,ortegarebekah@example.com,,,,False
+practice_site,Sean,Thompson,Vega LLC,CA,(167) 131-2696,michelesmith@example.net,,,,False
+practice_site,Anne,Murray,Williams-Bennett,NY,(812) 410-4006,gregory08@example.com,,,,False
+practice_site,Charles,Houston,Bernard-Brown,TX,(268) 824-6086,matthewmills@example.com,,,,False
+practice_site,Veronica,Gomez,Guzman Ltd,TX,(644) 956-2920,byork@example.net,,,,False
+practice_site,Madeline,Hart,"Glover, Trujillo and Rasmussen",IL,(209) 521-1467,april21@example.net,,,,False
+practice_site,Jordan,Jacobs,"Lee, Parrish and Mckinney",CA,(652) 625-1967,welchlisa@example.net,,,,False
+practice_site,Krystal,Perez,Pearson LLC,IL,(693) 944-1936,qanthony@example.net,,,,False
+practice_site,Cameron,Taylor,Perez-Riddle,NY,(436) 604-8690,nicholasgutierrez@example.com,,,,False
+practice_site,Brian,Wells,Ellis-Mayo,TX,(520) 203-4719,mcclainzachary@example.com,,,,False
+practice_site,Jonathan,House,Rice-Allison,IL,(559) 918-1299,kristine59@example.com,,,,False
+practice_site,Lisa,Evans,Morrow-Johnson,CA,(240) 534-1060,nmorrison@example.net,,,,False
+practice_site,Tommy,Petersen,Gilmore PLC,FL,(334) 985-7668,pamelakim@example.org,,,,False
+practice_site,Elizabeth,Hernandez,"Clark, Palmer and Bell",CA,(704) 068-5364,christopher37@example.com,,,,False
+practice_site,Devin,Pruitt,Green-Adams,TX,(156) 315-9491,mbarnes@example.com,,,,False
+practice_site,Jose,Cole,"Roth, Medina and Cox",TX,(145) 315-8871,james66@example.org,,,,False
+practice_site,Julie,Wright,"Guerra, Mccarty and Chavez",NY,(745) 127-2176,brandy54@example.net,,,,False
+practice_site,Regina,Osborn,"Schmidt, Gill and Jones",IL,(571) 803-8814,laurierodriguez@example.com,,,,False
+practice_site,James,Thomas,"Gonzalez, Lee and Flores",FL,(143) 344-1684,ronald49@example.net,,,,False
+practice_site,Carrie,Meza,"Gonzalez, Roberts and Hoffman",IL,(953) 347-3994,ahooper@example.net,,,,False
+practice_site,Christine,Herman,"Ponce, Perkins and Brown",IL,(069) 635-5501,fbennett@example.com,,,,False
+practice_site,Ashley,Ferguson,Carroll-Higgins,CA,(930) 637-9730,aliciawallace@example.com,,,,False
+practice_site,Jason,Moran,Robinson-Norton,CA,(693) 399-4067,dkirby@example.com,,,,False
+practice_site,Joseph,Rodriguez,Chapman-Edwards,CA,(826) 826-4026,gregory47@example.net,,,,False
+practice_site,Bruce,Carey,Wright and Sons,NY,(365) 766-3748,mccoymary@example.org,,,,False
+practice_site,Catherine,Alvarez,"Parker, Walker and Harris",CA,(892) 378-8401,michaelbridges@example.org,,,,False
+practice_site,Eric,Mitchell,Brown-Hughes,FL,(189) 354-0517,james95@example.org,,,,False
+practice_site,Tammy,Strong,Krause-Nichols,IL,(646) 802-9659,jon73@example.com,,,,False
+practice_site,Charles,Mercer,Gilbert LLC,IL,(667) 035-5912,qwallace@example.org,,,,False
+practice_site,Sarah,Serrano,Arnold Inc,TX,(426) 540-8268,krista43@example.net,,,,False
+practice_site,Lisa,Sanders,Silva Group,FL,(661) 266-9886,shahnicole@example.net,,,,False
+practice_site,Lisa,Smith,Washington-Sanders,CA,(690) 281-7528,taylorshannon@example.com,,,,False
+practice_site,Thomas,Thompson,Kennedy-Jones,FL,(710) 715-6708,fmcintosh@example.net,,,,False
+practice_site,Nancy,Robinson,Collins Group,FL,(092) 765-3447,tbass@example.com,,,,False
+practice_site,Lisa,Wall,Brooks-Williams,IL,(953) 712-6809,josephelizabeth@example.com,,,,False
+practice_site,Megan,Holland,"Anderson, Luna and Carpenter",NY,(213) 500-2092,fschwartz@example.org,,,,False
+practice_site,Kenneth,Smith,Spears PLC,CA,(267) 696-9283,williamsbrian@example.com,,,,False
+practice_site,Kimberly,Padilla,Gentry and Sons,CA,(798) 903-2198,ortizlisa@example.net,,,,False
+practice_site,Robert,Miller,Miller-Holmes,IL,(270) 590-4530,kaufmanmatthew@example.net,,,,False
+linkedin_style,Wanda,Howell-Smith,Howell Clinic,CA,,,linkedin.com/in/wanda-howell-smith,,,False
+linkedin_style,Heather,Parks-Smith,Parks Clinic,FL,,,linkedin.com/in/heather-parks-smith,,,False
+linkedin_style,Kelly,Smith-Smith,Smith Medical Group,FL,,,linkedin.com/in/kelly-smith-smith,,,False
+linkedin_style,Samantha,Case-Smith,Case Clinic,FL,,,linkedin.com/in/samantha-case-smith,,,False
+linkedin_style,Lisa,Ramsey-Smith,Ramsey Associates,IL,,,linkedin.com/in/lisa-ramsey-smith,,,False
+linkedin_style,Alexandra,Brooks-Smith,Brooks Medical Group,NY,,,linkedin.com/in/alexandra-brooks-smith,,,False
+linkedin_style,Emily,Davis-Smith,Davis Medical Group,FL,,,linkedin.com/in/emily-davis-smith,,,False
+linkedin_style,Cheyenne,Austin-Smith,Austin Medical Group,CA,,,linkedin.com/in/cheyenne-austin-smith,,,False
+linkedin_style,Melissa,Sherman-Smith,Sherman Associates,IL,,,linkedin.com/in/melissa-sherman-smith,,,False
+linkedin_style,Gina,Evans-Smith,Evans Associates,IL,,,linkedin.com/in/gina-evans-smith,,,False
+linkedin_style,Natalie,Stephens-Smith,Stephens Medical Group,TX,,,linkedin.com/in/natalie-stephens-smith,,,False
+linkedin_style,Mark,Lee Jr,Lee Associates,CA,,,linkedin.com/in/mark-leejr,,,False
+linkedin_style,Benjamin,Miller-Smith,Miller Associates,TX,,,linkedin.com/in/benjamin-miller-smith,,,False
+linkedin_style,Eric,Coffey-Smith,Coffey Clinic,TX,,,linkedin.com/in/eric-coffey-smith,,,False
+linkedin_style,Kylie,Ramirez-Smith,Ramirez Clinic,CA,,,linkedin.com/in/kylie-ramirez-smith,,,False
+linkedin_style,Alicia,Sullivan-Smith,Sullivan Associates,FL,,,linkedin.com/in/alicia-sullivan-smith,,,False
+linkedin_style,Lisa,Lopez-Smith,Lopez Medical Group,NY,,,linkedin.com/in/lisa-lopez-smith,,,False
+linkedin_style,Jose,Barton-Smith,Barton Clinic,TX,,,linkedin.com/in/jose-barton-smith,,,False
+linkedin_style,Susan,Briggs-Smith,Briggs Medical Group,IL,,,linkedin.com/in/susan-briggs-smith,,,False
+linkedin_style,Michael,Williams-Smith,Williams Medical Group,CA,,,linkedin.com/in/michael-williams-smith,,,False
+linkedin_style,Robert,Preston-Smith,Preston Medical Group,IL,,,linkedin.com/in/robert-preston-smith,,,False
+linkedin_style,Jessica,Bonilla-Smith,Bonilla Medical Group,NY,,,linkedin.com/in/jessica-bonilla-smith,,,False
+linkedin_style,Melanie,Hughes-Smith,Hughes Clinic,FL,,,linkedin.com/in/melanie-hughes-smith,,,False
+linkedin_style,Eric,Bradley-Smith,Bradley Associates,IL,,,linkedin.com/in/eric-bradley-smith,,,False
+linkedin_style,Julie,Riley-Smith,Riley Associates,FL,,,linkedin.com/in/julie-riley-smith,,,False
+linkedin_style,Phillip,Cameron-Smith,Cameron Clinic,IL,,,linkedin.com/in/phillip-cameron-smith,,,False
+linkedin_style,Dakota,Johnson-Smith,Johnson Associates,FL,,,linkedin.com/in/dakota-johnson-smith,,,False
+linkedin_style,Daniel,Cross-Smith,Cross Medical Group,CA,,,linkedin.com/in/daniel-cross-smith,,,False
+linkedin_style,Leah,Torres-Smith,Torres Clinic,NY,,,linkedin.com/in/leah-torres-smith,,,False
+linkedin_style,Heather,Johnson-Smith,Johnson Clinic,NY,,,linkedin.com/in/heather-johnson-smith,,,False
+linkedin_style,Paul,Day Jr,Day Clinic,CA,,,linkedin.com/in/paul-dayjr,,,False
+linkedin_style,Spencer,Wells-Smith,Wells Clinic,IL,,,linkedin.com/in/spencer-wells-smith,,,False
+linkedin_style,Charles,Diaz-Smith,Diaz Associates,NY,,,linkedin.com/in/charles-diaz-smith,,,False
+linkedin_style,Vicki,Sparks-Smith,Sparks Clinic,NY,,,linkedin.com/in/vicki-sparks-smith,,,False
+linkedin_style,Benjamin,Johnson-Smith,Johnson Medical Group,TX,,,linkedin.com/in/benjamin-johnson-smith,,,False
+linkedin_style,Craig,Brown-Smith,Brown Clinic,NY,,,linkedin.com/in/craig-brown-smith,,,False

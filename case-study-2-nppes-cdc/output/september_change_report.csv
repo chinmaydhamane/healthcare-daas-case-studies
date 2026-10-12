@@ -1,0 +1,423 @@
+npi,first_name,last_name,specialty,practice_name,effective_date,change_reason
+1002997432,Austin,Jackson,Dermatology,Jackson Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1007706947,Robert,Reynolds,Gastroenterology,Reynolds Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1009371783,John,Mcbride,Gastroenterology,Mcbride Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1012104560,Jeffery,Haynes,Dermatology,Haynes Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1021314994,Emily,Melendez,Orthopedics,Melendez Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1033143525,Jessica,Diaz,Dermatology,Diaz Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1033759366,Megan,Harris,Dermatology,Harris Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1042208980,Christina,Martin,Oncology,Martin Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1045005471,Donald,Anderson,Cardiology,Anderson Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1048876234,Larry,Torres,Oncology,Torres Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1053076399,Andrew,James,Oncology,James Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1053392723,Ronald,Davis,Orthopedics,Davis Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1057606015,Roger,Gibson,Dermatology,Gibson Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1059406606,Maria,Sloan,Dermatology,Sloan Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1073220785,Erin,Martinez,Cardiology,Martinez Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1081695043,Jenna,Mccarty,Oncology,Mccarty Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1090072106,Andrea,Wheeler,Cardiology,Wheeler Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1098309062,Brian,Gamble,Oncology,Gamble Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1111574391,Penny,Aguilar,Gastroenterology,Aguilar Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1113846157,Henry,Quinn,Cardiology,Quinn Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1115083075,Ashley,Evans,Dermatology,Evans Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1122142315,Joseph,Austin,Dermatology,Austin Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1123067992,Megan,Evans,Oncology,Evans Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1125665261,Maria,Sandoval,Orthopedics,Sandoval Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1134535545,Jessica,Davis,Oncology,Davis Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1138438381,Donna,Robinson,Orthopedics,Robinson Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1145502870,Dylan,Baker,Orthopedics,Baker Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1152593540,Matthew,Burke,Dermatology,Burke Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1154795334,Felicia,Cruz,Dermatology,Cruz Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1155126248,Andrew,Armstrong,Orthopedics,Armstrong Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1156182831,Timothy,Stevens,Orthopedics,Stevens Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1165081649,Julie,Middleton,Cardiology,Middleton Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1167954067,Heather,Scott,Dermatology,Scott Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1168095429,Felicia,Phillips,Orthopedics,Phillips Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1172264365,Kyle,Castro,Primary Care,Castro Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1176728033,David,Roman,Oncology,Roman Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1177443574,David,Stewart,Oncology,Stewart Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1194255643,Mark,Meyer,Gastroenterology,Meyer Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1207517381,Ethan,Gonzalez,Dermatology,Gonzalez Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1208158159,Joshua,Schwartz,Oncology,Schwartz Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1215670145,Destiny,Guerra,Orthopedics,Guerra Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1232844941,Joshua,Baker,Primary Care,Baker Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1232989727,Tyler,Jackson,Cardiology,Jackson Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1250063560,Patrick,Smith,Oncology,Smith Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1258107561,Keith,Green,Oncology,Green Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1258634831,Tyler,Lewis,Cardiology,Lewis Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1274662355,Julie,Wallace,Primary Care,Wallace Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1285836518,Stephanie,Hernandez,Primary Care,Hernandez Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1306296587,Kimberly,Mclaughlin,Cardiology,Mclaughlin Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1308466670,Nicholas,Jackson,Gastroenterology,Jackson Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1317804851,Christian,Stewart,Oncology,Stewart Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1317979219,Derek,Lopez,Cardiology,Lopez Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1323069995,Christina,Oconnor,Primary Care,Oconnor Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1334790567,Evan,Haynes,Oncology,Haynes Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1342304639,Neil,Golden,Oncology,Golden Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1345564054,Donna,Holmes,Primary Care,Holmes Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1348041294,Andrea,Obrien,Primary Care,Obrien Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1359584890,Lindsey,Walker,Gastroenterology,Walker Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1371930334,Evelyn,Johnson,Gastroenterology,Johnson Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1376801781,Jodi,Odom,Dermatology,Odom Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1378664064,Barbara,Lee,Gastroenterology,Lee Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1379451886,Melissa,Cross,Gastroenterology,Cross Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1381937539,Chase,Thomas,Primary Care,Thomas Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1382443520,Kevin,Randolph,Orthopedics,Randolph Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1383312181,Christopher,Carter,Gastroenterology,Carter Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1383359946,Matthew,Jennings,Gastroenterology,Jennings Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1392945702,Nancy,Hayes,Gastroenterology,Hayes Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1398395883,Bernard,Peterson,Cardiology,Peterson Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1401855301,Kathryn,Thompson,Oncology,Thompson Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1410865170,Michelle,Thompson,Orthopedics,Thompson Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1416963375,Brittney,Harmon,Orthopedics,Harmon Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1428687493,Jennifer,Jones,Orthopedics,Jones Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1430255613,Thomas,Long,Orthopedics,Long Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1434590771,Aaron,Doyle,Gastroenterology,Doyle Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1436814723,William,Jones,Gastroenterology,Jones Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1438965229,Mia,Giles,Oncology,Giles Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1443000269,Emily,Huff,Orthopedics,Huff Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1446345457,Emily,Morris,Oncology,Morris Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1447419685,Lisa,Murphy,Cardiology,Murphy Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1456153238,Erin,Bridges,Gastroenterology,Bridges Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1465411086,Melissa,Robles,Oncology,Robles Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1468715515,Judy,Rivera,Oncology,Rivera Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1469062906,Barbara,Camacho,Oncology,Camacho Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1473920279,Vanessa,Rosales,Oncology,Rosales Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1474608575,Susan,Carter,Primary Care,Carter Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1476781900,Shannon,Brooks,Primary Care,Brooks Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1480515480,Gina,Arnold,Primary Care,Arnold Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1483726167,William,Hanson,Primary Care,Hanson Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1483864074,William,Stephens,Cardiology,Stephens Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1486778572,Ryan,Scott,Oncology,Scott Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1489898942,Leslie,Reynolds,Cardiology,Reynolds Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1495874670,Colleen,Brown,Dermatology,Brown Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1500380838,James,Buckley,Oncology,Buckley Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1511683229,Mark,Mcgee,Oncology,Mcgee Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1513725448,Robert,Baker,Cardiology,Baker Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1517822579,Phillip,Irwin,Dermatology,Irwin Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1522658880,Patricia,Cooper,Cardiology,Cooper Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1527641843,Robin,Smith,Orthopedics,Smith Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1536170632,Shannon,Little,Cardiology,Little Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1539214904,Elizabeth,Mosley,Oncology,Mosley Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1544380786,Sue,Long,Orthopedics,Long Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1549249529,Haley,Wells,Primary Care,Wells Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1550270209,Kyle,Guerrero,Orthopedics,Guerrero Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1562861040,Dylan,Acevedo,Gastroenterology,Acevedo Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1571533142,Thomas,Harris,Cardiology,Harris Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1579747566,Marc,Barker,Orthopedics,Barker Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1582865136,Luis,Reyes,Primary Care,Reyes Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1584696863,Curtis,Mullen,Oncology,Mullen Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1591998329,Robert,White,Gastroenterology,White Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1593302750,Bruce,Rowland,Dermatology,Rowland Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1597666309,Tyler,Davies,Oncology,Davies Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1611900660,Courtney,Daniels,Oncology,Daniels Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1612774958,Kenneth,Golden,Dermatology,Golden Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1613828630,William,Morris,Oncology,Morris Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1626683344,Joshua,Watson,Oncology,Watson Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1629269413,Stephanie,Simmons,Cardiology,Simmons Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1653719203,Keith,Martin,Oncology,Martin Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1659265432,Helen,Greer,Orthopedics,Greer Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1687940036,Renee,Castillo,Cardiology,Castillo Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1698638069,Julia,Bullock,Gastroenterology,Bullock Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1699626095,Stephanie,Smith,Dermatology,Smith Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1700833308,Jennifer,Villanueva,Orthopedics,Villanueva Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1704550117,Stephen,Carter,Cardiology,Carter Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1708956014,Kimberly,Henderson,Cardiology,Henderson Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1709795905,Edward,Phillips,Oncology,Phillips Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1713969948,Luis,Mercer,Orthopedics,Mercer Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1716215179,Leslie,Blake,Oncology,Blake Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1720074592,Christine,Nichols,Cardiology,Nichols Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1723190081,Charles,Howell,Primary Care,Howell Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1727642217,Joseph,Fox,Dermatology,Fox Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1749118625,Robert,Mahoney,Gastroenterology,Mahoney Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1749715367,Francisco,Smith,Gastroenterology,Smith Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1749810016,Marco,Mata,Primary Care,Mata Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1751605420,Rhonda,Mitchell,Dermatology,Mitchell Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1761072442,Thomas,Tran,Gastroenterology,Tran Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1771781254,Todd,Lawrence,Dermatology,Lawrence Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1773070972,Roberta,Crawford,Gastroenterology,Crawford Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1773350759,Tony,Farmer,Oncology,Farmer Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1778269523,Denise,Scott,Orthopedics,Scott Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1786158145,John,Thomas,Primary Care,Thomas Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1788078505,Andrea,Hoover,Dermatology,Hoover Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1794463589,Jerry,Castillo,Oncology,Castillo Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1798558160,Logan,Chandler,Cardiology,Chandler Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1816676057,Tiffany,Franklin,Orthopedics,Franklin Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1819111681,Sydney,Page,Dermatology,Page Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1821224829,Curtis,Sullivan,Gastroenterology,Sullivan Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1830538110,Robert,Norton,Oncology,Norton Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1850030384,Timothy,Cook,Gastroenterology,Cook Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1850531603,Teresa,Turner,Dermatology,Turner Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1851978378,Logan,Rivera,Cardiology,Rivera Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1856263453,Melissa,Rodriguez,Primary Care,Rodriguez Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1858981038,Kevin,Hernandez,Cardiology,Hernandez Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1859226380,Thomas,Wilson,Cardiology,Wilson Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1867815803,Lucas,Dixon,Gastroenterology,Dixon Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1871491702,Crystal,Mcfarland,Primary Care,Mcfarland Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1875710395,Molly,White,Dermatology,White Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1877795903,Colleen,Pittman,Oncology,Pittman Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1884482318,Luis,Chan,Cardiology,Chan Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1897263287,Jesse,Dunlap,Orthopedics,Dunlap Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1911029772,Brianna,Carroll,Oncology,Carroll Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1918171440,Diamond,Adams,Dermatology,Adams Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1918681950,William,Robertson,Primary Care,Robertson Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1925621385,Stephen,Brown,Gastroenterology,Brown Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1926767075,Darrell,Green,Orthopedics,Green Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1938484907,James,Burnett,Primary Care,Burnett Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1939610051,Jessica,Marshall,Cardiology,Marshall Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1953532030,David,Palmer,Orthopedics,Palmer Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1953582499,Jordan,Wilkins,Oncology,Wilkins Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1961621689,Carrie,Moore,Primary Care,Moore Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1964997113,Jamie,Waller,Gastroenterology,Waller Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1969617538,Diana,Brown,Cardiology,Brown Medical Group,2026-09-01,"CHANGED:practice_name,zip,phone"
+1971907263,Charles,Lee,Orthopedics,Lee Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1976323026,Shirley,Hendricks,Dermatology,Hendricks Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1976652070,Andrew,Mason,Orthopedics,Mason Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1981017439,Bonnie,Lyons,Orthopedics,Lyons Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1987333822,Catherine,Sullivan,Orthopedics,Sullivan Physicians LLC,2026-09-01,"CHANGED:practice_name,zip,phone"
+1990089579,Darren,Harrison,Dermatology,Harrison Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1998253918,Andrea,Bailey,Cardiology,Bailey Health Network,2026-09-01,"CHANGED:practice_name,zip,phone"
+1004781864,Bobby,Walker,Oncology,Walker Clinic,2026-09-01,CHANGED:specialty
+1023094620,Eric,Rodriguez,Oncology,Rodriguez Health Partners,2026-09-01,CHANGED:specialty
+1044111725,Amanda,Moore,Oncology,Moore Health Partners,2026-09-01,CHANGED:specialty
+1049345052,Victor,Leon,Primary Care,Leon Health Partners,2026-09-01,CHANGED:specialty
+1052079405,Douglas,Lewis,Primary Care,Lewis Health Partners,2026-09-01,CHANGED:specialty
+1061849709,Laura,Sheppard,Cardiology,Sheppard Associates,2026-09-01,CHANGED:specialty
+1075301077,Rachel,Gregory,Primary Care,Gregory Clinic,2026-09-01,CHANGED:specialty
+1077338817,James,Banks,Oncology,Banks Clinic,2026-09-01,CHANGED:specialty
+1087239661,Cynthia,Pennington,Orthopedics,Pennington Medical Group,2026-09-01,CHANGED:specialty
+1088975438,Ruth,Miller,Orthopedics,Miller Health Partners,2026-09-01,CHANGED:specialty
+1106891769,Karen,Martinez,Cardiology,Martinez Health Partners,2026-09-01,CHANGED:specialty
+1113573030,Jonathan,Barrera,Orthopedics,Barrera Clinic,2026-09-01,CHANGED:specialty
+1131274881,Stephanie,Brooks,Oncology,Brooks Health Partners,2026-09-01,CHANGED:specialty
+1139983147,James,Zavala,Oncology,Zavala Health Partners,2026-09-01,CHANGED:specialty
+1164388317,Ricardo,Robinson,Orthopedics,Robinson Medical Group,2026-09-01,CHANGED:specialty
+1167197158,Julian,Walton,Primary Care,Walton Health Partners,2026-09-01,CHANGED:specialty
+1181179661,Danielle,Stokes,Dermatology,Stokes Medical Group,2026-09-01,CHANGED:specialty
+1182494732,Troy,Lara,Oncology,Lara Health Partners,2026-09-01,CHANGED:specialty
+1198406734,Kelly,Martinez,Dermatology,Martinez Health Partners,2026-09-01,CHANGED:specialty
+1212372983,Michelle,Miller,Oncology,Miller Health Partners,2026-09-01,CHANGED:specialty
+1223318910,Steven,Williams,Oncology,Williams Associates,2026-09-01,CHANGED:specialty
+1266620398,Robert,Riley,Cardiology,Riley Health Partners,2026-09-01,CHANGED:specialty
+1284244527,Antonio,Navarro,Cardiology,Navarro Associates,2026-09-01,CHANGED:specialty
+1295276593,Nicole,Odom,Cardiology,Odom Clinic,2026-09-01,CHANGED:specialty
+1300588076,Craig,Jenkins,Primary Care,Jenkins Medical Group,2026-09-01,CHANGED:specialty
+1307632173,Elizabeth,Jackson,Gastroenterology,Jackson Clinic,2026-09-01,CHANGED:specialty
+1310281120,Brittany,Adams,Primary Care,Adams Medical Group,2026-09-01,CHANGED:specialty
+1340057172,Johnny,Walsh,Gastroenterology,Walsh Associates,2026-09-01,CHANGED:specialty
+1343290124,Angela,Davis,Primary Care,Davis Health Partners,2026-09-01,CHANGED:specialty
+1354169059,Destiny,Morris,Dermatology,Morris Associates,2026-09-01,CHANGED:specialty
+1362596096,Frank,Perez,Gastroenterology,Perez Medical Group,2026-09-01,CHANGED:specialty
+1377617409,Karen,Smith,Gastroenterology,Smith Clinic,2026-09-01,CHANGED:specialty
+1380843682,Sara,Mcdonald,Cardiology,Mcdonald Associates,2026-09-01,CHANGED:specialty
+1401923475,Megan,Smith,Oncology,Smith Medical Group,2026-09-01,CHANGED:specialty
+1430668695,Carl,Walker,Cardiology,Walker Associates,2026-09-01,CHANGED:specialty
+1436336335,Karen,Lee,Gastroenterology,Lee Associates,2026-09-01,CHANGED:specialty
+1449279055,Courtney,Woods,Primary Care,Woods Health Partners,2026-09-01,CHANGED:specialty
+1452355036,Jocelyn,Atkinson,Oncology,Atkinson Medical Group,2026-09-01,CHANGED:specialty
+1508605126,Michael,Gonzalez,Cardiology,Gonzalez Health Partners,2026-09-01,CHANGED:specialty
+1539924545,Christopher,Cole,Orthopedics,Cole Associates,2026-09-01,CHANGED:specialty
+1548301573,Brian,Lopez,Oncology,Lopez Health Partners,2026-09-01,CHANGED:specialty
+1550496428,Kathleen,Simmons,Dermatology,Simmons Health Partners,2026-09-01,CHANGED:specialty
+1571893569,Kevin,Harris,Gastroenterology,Harris Health Partners,2026-09-01,CHANGED:specialty
+1587362481,Jennifer,Mercado,Oncology,Mercado Medical Group,2026-09-01,CHANGED:specialty
+1587941079,Kenneth,Graham,Cardiology,Graham Medical Group,2026-09-01,CHANGED:specialty
+1590344038,Andrea,Robinson,Oncology,Robinson Medical Group,2026-09-01,CHANGED:specialty
+1615127491,Benjamin,May,Oncology,May Associates,2026-09-01,CHANGED:specialty
+1617531036,Steven,Le,Cardiology,Le Health Partners,2026-09-01,CHANGED:specialty
+1619003468,Pamela,Chen,Dermatology,Chen Health Partners,2026-09-01,CHANGED:specialty
+1661892206,Roger,Hunter,Oncology,Hunter Clinic,2026-09-01,CHANGED:specialty
+1676774007,Barry,Allen,Cardiology,Allen Medical Group,2026-09-01,CHANGED:specialty
+1678602840,Joshua,Castillo,Primary Care,Castillo Medical Group,2026-09-01,CHANGED:specialty
+1682512768,Rebecca,Jackson,Oncology,Jackson Medical Group,2026-09-01,CHANGED:specialty
+1692743669,Chelsey,Thomas,Oncology,Thomas Medical Group,2026-09-01,CHANGED:specialty
+1693597413,Erika,Nguyen,Gastroenterology,Nguyen Medical Group,2026-09-01,CHANGED:specialty
+1715572189,Aaron,Clayton,Cardiology,Clayton Health Partners,2026-09-01,CHANGED:specialty
+1719663858,Justin,Hill,Orthopedics,Hill Associates,2026-09-01,CHANGED:specialty
+1758932680,Stephen,Cain,Oncology,Cain Clinic,2026-09-01,CHANGED:specialty
+1762811926,Jennifer,Chandler,Oncology,Chandler Medical Group,2026-09-01,CHANGED:specialty
+1787065734,Keith,Jones,Orthopedics,Jones Medical Group,2026-09-01,CHANGED:specialty
+1789183297,Austin,Flores,Oncology,Flores Clinic,2026-09-01,CHANGED:specialty
+1800027507,Kathryn,Acosta,Oncology,Acosta Medical Group,2026-09-01,CHANGED:specialty
+1820063894,Jose,Gutierrez,Gastroenterology,Gutierrez Health Partners,2026-09-01,CHANGED:specialty
+1854300196,Joel,Sims,Orthopedics,Sims Clinic,2026-09-01,CHANGED:specialty
+1874509933,Larry,Smith,Dermatology,Smith Clinic,2026-09-01,CHANGED:specialty
+1875882538,Tonya,Blackwell,Oncology,Blackwell Associates,2026-09-01,CHANGED:specialty
+1881459927,Laura,Higgins,Cardiology,Higgins Associates,2026-09-01,CHANGED:specialty
+1887780742,Andrew,Jordan,Cardiology,Jordan Associates,2026-09-01,CHANGED:specialty
+1920656965,Ross,Davis,Orthopedics,Davis Clinic,2026-09-01,CHANGED:specialty
+1958164750,Brandon,Mccoy,Orthopedics,Mccoy Medical Group,2026-09-01,CHANGED:specialty
+1993802279,Jennifer,Hall,Orthopedics,Hall Health Partners,2026-09-01,CHANGED:specialty
+1996018584,Brandi,Villa,Primary Care,Villa Associates,2026-09-01,CHANGED:specialty
+1456395506,Dale,Johns,Oncology,Johns Physicians LLC,2026-09-01,"CHANGED:specialty,practice_name,zip,phone"
+1905012446,Charlotte,Rivera,Primary Care,Rivera Physicians LLC,2026-09-01,"CHANGED:specialty,practice_name,zip,phone"
+1730624628,Christina,Chavez,Primary Care,Chavez Medical Group,2026-09-01,"CHANGED:specialty,zip,phone"
+1218404201,Lauren,Jacobs,Cardiology,Jacobs Medical Group,2026-09-01,"CHANGED:zip,phone"
+1232446686,Brian,Flores,Oncology,Flores Medical Group,2026-09-01,"CHANGED:zip,phone"
+1244413794,David,Williams,Dermatology,Williams Medical Group,2026-09-01,"CHANGED:zip,phone"
+1270101939,Jacob,Holmes,Oncology,Holmes Medical Group,2026-09-01,"CHANGED:zip,phone"
+1408758047,Erika,Campbell,Gastroenterology,Campbell Medical Group,2026-09-01,"CHANGED:zip,phone"
+1417467745,Robert,Mcmillan,Dermatology,Mcmillan Medical Group,2026-09-01,"CHANGED:zip,phone"
+1446353388,Paul,Clark,Cardiology,Clark Medical Group,2026-09-01,"CHANGED:zip,phone"
+1468489748,Alex,Russo,Gastroenterology,Russo Medical Group,2026-09-01,"CHANGED:zip,phone"
+1577925537,Darlene,Burgess,Orthopedics,Burgess Medical Group,2026-09-01,"CHANGED:zip,phone"
+1612924553,Courtney,Lowe,Dermatology,Lowe Medical Group,2026-09-01,"CHANGED:zip,phone"
+1662833275,Angela,Blackburn,Orthopedics,Blackburn Medical Group,2026-09-01,"CHANGED:zip,phone"
+1677291503,Vanessa,Chavez,Dermatology,Chavez Medical Group,2026-09-01,"CHANGED:zip,phone"
+1704572572,Kelly,Jackson,Orthopedics,Jackson Medical Group,2026-09-01,"CHANGED:zip,phone"
+1721167800,Joel,Duncan,Gastroenterology,Duncan Medical Group,2026-09-01,"CHANGED:zip,phone"
+1747035882,James,Brennan,Oncology,Brennan Medical Group,2026-09-01,"CHANGED:zip,phone"
+1795456890,Mercedes,Sanchez,Primary Care,Sanchez Medical Group,2026-09-01,"CHANGED:zip,phone"
+1870835184,Marissa,Gay,Primary Care,Gay Medical Group,2026-09-01,"CHANGED:zip,phone"
+1878487232,Kyle,Hayden,Dermatology,Hayden Medical Group,2026-09-01,"CHANGED:zip,phone"
+1928791556,Karen,Watson,Dermatology,Watson Medical Group,2026-09-01,"CHANGED:zip,phone"
+1039145484,Charles,Brown,Primary Care,Brown Health Partners,2026-09-01,DEACTIVATED
+1049153193,Randall,Long,Orthopedics,Long Medical Group,2026-09-01,DEACTIVATED
+1079237988,Lori,Davis,Dermatology,Davis Medical Group,2026-09-01,DEACTIVATED
+1081999990,Michael,Johnson,Dermatology,Johnson Medical Group,2026-09-01,DEACTIVATED
+1129045615,Sandra,Flores,Dermatology,Flores Associates,2026-09-01,DEACTIVATED
+1134099783,Corey,Fox,Orthopedics,Fox Health Partners,2026-09-01,DEACTIVATED
+1136191885,Chad,Nelson,Orthopedics,Nelson Medical Group,2026-09-01,DEACTIVATED
+1186750242,Stephen,Schwartz,Orthopedics,Schwartz Clinic,2026-09-01,DEACTIVATED
+1187163976,Douglas,Spencer,Orthopedics,Spencer Associates,2026-09-01,DEACTIVATED
+1206699806,Brian,Gutierrez,Cardiology,Gutierrez Associates,2026-09-01,DEACTIVATED
+1212388263,Joseph,Sutton,Dermatology,Sutton Health Partners,2026-09-01,DEACTIVATED
+1240925888,Darrell,Nguyen,Gastroenterology,Nguyen Health Partners,2026-09-01,DEACTIVATED
+1245591694,Martin,Bowman,Dermatology,Bowman Clinic,2026-09-01,DEACTIVATED
+1248442605,Monica,Grant,Cardiology,Grant Health Partners,2026-09-01,DEACTIVATED
+1254291079,Megan,Singleton,Primary Care,Singleton Medical Group,2026-09-01,DEACTIVATED
+1254472013,Scott,Poole,Orthopedics,Poole Medical Group,2026-09-01,DEACTIVATED
+1270171896,Danielle,Andrews,Primary Care,Andrews Health Partners,2026-09-01,DEACTIVATED
+1287632864,Troy,Moon,Cardiology,Moon Clinic,2026-09-01,DEACTIVATED
+1293732409,Wanda,Quinn,Orthopedics,Quinn Clinic,2026-09-01,DEACTIVATED
+1300111327,Michele,Adkins,Primary Care,Adkins Medical Group,2026-09-01,DEACTIVATED
+1303580740,Teresa,Moore,Primary Care,Moore Clinic,2026-09-01,DEACTIVATED
+1304440852,Kelly,Johnson,Cardiology,Johnson Medical Group,2026-09-01,DEACTIVATED
+1309430654,Lisa,Miller,Oncology,Miller Clinic,2026-09-01,DEACTIVATED
+1310217898,Austin,Lopez,Orthopedics,Lopez Medical Group,2026-09-01,DEACTIVATED
+1311387807,David,Austin,Orthopedics,Austin Medical Group,2026-09-01,DEACTIVATED
+1335270521,Henry,Brady,Orthopedics,Brady Medical Group,2026-09-01,DEACTIVATED
+1344368647,Mary,Tucker,Oncology,Tucker Associates,2026-09-01,DEACTIVATED
+1356433164,Brenda,Reyes,Oncology,Reyes Clinic,2026-09-01,DEACTIVATED
+1370360898,Kathy,Gutierrez,Primary Care,Gutierrez Associates,2026-09-01,DEACTIVATED
+1400684711,Ashley,Wells,Orthopedics,Wells Medical Group,2026-09-01,DEACTIVATED
+1427316468,Glenda,Howard,Primary Care,Howard Medical Group,2026-09-01,DEACTIVATED
+1446811986,Amy,Smith,Oncology,Smith Clinic,2026-09-01,DEACTIVATED
+1465159980,Andrea,Foster,Primary Care,Foster Associates,2026-09-01,DEACTIVATED
+1465528620,Amanda,Bradley,Primary Care,Bradley Associates,2026-09-01,DEACTIVATED
+1517665516,Tonya,Jones,Cardiology,Jones Associates,2026-09-01,DEACTIVATED
+1526301228,Joshua,Berger,Primary Care,Berger Health Partners,2026-09-01,DEACTIVATED
+1536820163,Timothy,Gonzalez,Orthopedics,Gonzalez Clinic,2026-09-01,DEACTIVATED
+1549827631,Steven,David,Dermatology,David Health Partners,2026-09-01,DEACTIVATED
+1566473702,Daniel,Fitzgerald,Gastroenterology,Fitzgerald Clinic,2026-09-01,DEACTIVATED
+1599507137,Rachael,Brown,Dermatology,Brown Health Partners,2026-09-01,DEACTIVATED
+1676018870,William,Myers,Gastroenterology,Myers Medical Group,2026-09-01,DEACTIVATED
+1704315467,Dana,Mckenzie,Primary Care,Mckenzie Health Partners,2026-09-01,DEACTIVATED
+1754678208,Bradley,Wu,Gastroenterology,Wu Clinic,2026-09-01,DEACTIVATED
+1757043642,Amanda,Robbins,Oncology,Robbins Associates,2026-09-01,DEACTIVATED
+1785047617,Linda,Mitchell,Primary Care,Mitchell Medical Group,2026-09-01,DEACTIVATED
+1814765437,Jamie,Shannon,Dermatology,Shannon Associates,2026-09-01,DEACTIVATED
+1839882176,Nicholas,Cook,Oncology,Cook Clinic,2026-09-01,DEACTIVATED
+1924107514,Lucas,Noble,Primary Care,Noble Medical Group,2026-09-01,DEACTIVATED
+1946524473,Tammy,Norris,Dermatology,Norris Associates,2026-09-01,DEACTIVATED
+1960852567,Jose,Howard,Dermatology,Howard Clinic,2026-09-01,DEACTIVATED
+1017042691,Dustin,Rodriguez,Dermatology,Rodriguez Clinic,2026-09-01,NEW_PROVIDER
+1021830358,Steven,Taylor,Primary Care,Taylor Associates,2026-09-01,NEW_PROVIDER
+1033939931,Tony,Delacruz,Oncology,Delacruz Associates,2026-09-01,NEW_PROVIDER
+1039569495,Kayla,Castro,Dermatology,Castro Clinic,2026-09-01,NEW_PROVIDER
+1051307286,Brett,Miller,Cardiology,Miller Associates,2026-09-01,NEW_PROVIDER
+1051722552,Kristen,Johnson,Gastroenterology,Johnson Associates,2026-09-01,NEW_PROVIDER
+1069619844,Renee,Koch,Primary Care,Koch Clinic,2026-09-01,NEW_PROVIDER
+1073782002,Deanna,Simmons,Gastroenterology,Simmons Medical Group,2026-09-01,NEW_PROVIDER
+1101170953,Joseph,Moran,Primary Care,Moran Clinic,2026-09-01,NEW_PROVIDER
+1108752488,Destiny,Diaz,Oncology,Diaz Clinic,2026-09-01,NEW_PROVIDER
+1120034294,Nancy,Martinez,Cardiology,Martinez Associates,2026-09-01,NEW_PROVIDER
+1129169761,Eugene,Mcpherson,Orthopedics,Mcpherson Medical Group,2026-09-01,NEW_PROVIDER
+1133182486,Andrew,Smith,Dermatology,Smith Associates,2026-09-01,NEW_PROVIDER
+1134033564,Charles,Roberts,Cardiology,Roberts Associates,2026-09-01,NEW_PROVIDER
+1146985783,Kristina,Peck,Orthopedics,Peck Medical Group,2026-09-01,NEW_PROVIDER
+1148092660,Danielle,Tyler,Primary Care,Tyler Medical Group,2026-09-01,NEW_PROVIDER
+1161339622,Juan,Cline,Dermatology,Cline Associates,2026-09-01,NEW_PROVIDER
+1162723850,Dawn,Lucas,Cardiology,Lucas Associates,2026-09-01,NEW_PROVIDER
+1167275000,Savannah,Howard,Orthopedics,Howard Associates,2026-09-01,NEW_PROVIDER
+1177989280,Christopher,Long,Oncology,Long Clinic,2026-09-01,NEW_PROVIDER
+1187106113,Sean,Cox,Oncology,Cox Clinic,2026-09-01,NEW_PROVIDER
+1189111398,Ellen,Dean,Gastroenterology,Dean Medical Group,2026-09-01,NEW_PROVIDER
+1192862003,Jennifer,Banks,Primary Care,Banks Medical Group,2026-09-01,NEW_PROVIDER
+1197714702,Jordan,Watkins,Oncology,Watkins Medical Group,2026-09-01,NEW_PROVIDER
+1205090070,Alexandra,Mckay,Cardiology,Mckay Medical Group,2026-09-01,NEW_PROVIDER
+1217233709,Michael,Parker,Dermatology,Parker Medical Group,2026-09-01,NEW_PROVIDER
+1235616449,Christopher,Soto,Primary Care,Soto Clinic,2026-09-01,NEW_PROVIDER
+1242523771,Brenda,Lewis,Oncology,Lewis Medical Group,2026-09-01,NEW_PROVIDER
+1248775257,Robert,Gomez,Orthopedics,Gomez Associates,2026-09-01,NEW_PROVIDER
+1249043416,Andrea,Johnson,Cardiology,Johnson Associates,2026-09-01,NEW_PROVIDER
+1265858517,Lori,Turner,Oncology,Turner Medical Group,2026-09-01,NEW_PROVIDER
+1268810390,Dylan,Stewart,Orthopedics,Stewart Associates,2026-09-01,NEW_PROVIDER
+1278678468,Michael,Lopez,Gastroenterology,Lopez Medical Group,2026-09-01,NEW_PROVIDER
+1280422058,Courtney,Vaughn,Cardiology,Vaughn Associates,2026-09-01,NEW_PROVIDER
+1287211329,Joshua,Lewis,Orthopedics,Lewis Associates,2026-09-01,NEW_PROVIDER
+1290947437,Eric,Ramirez,Primary Care,Ramirez Associates,2026-09-01,NEW_PROVIDER
+1299205710,Cody,Simmons,Primary Care,Simmons Medical Group,2026-09-01,NEW_PROVIDER
+1300177488,Amber,Moore,Gastroenterology,Moore Medical Group,2026-09-01,NEW_PROVIDER
+1301156130,Lori,Burke,Gastroenterology,Burke Associates,2026-09-01,NEW_PROVIDER
+1304165489,Joanna,Sanders,Oncology,Sanders Medical Group,2026-09-01,NEW_PROVIDER
+1316777122,Anthony,Long,Cardiology,Long Medical Group,2026-09-01,NEW_PROVIDER
+1319154192,Madeline,Washington,Orthopedics,Washington Medical Group,2026-09-01,NEW_PROVIDER
+1324930589,Angelica,Lozano,Dermatology,Lozano Associates,2026-09-01,NEW_PROVIDER
+1325651684,Thomas,Richardson,Cardiology,Richardson Associates,2026-09-01,NEW_PROVIDER
+1326911440,William,Vargas,Oncology,Vargas Associates,2026-09-01,NEW_PROVIDER
+1330391013,Anthony,Barrera,Gastroenterology,Barrera Clinic,2026-09-01,NEW_PROVIDER
+1334178324,Tonya,Schultz,Orthopedics,Schultz Associates,2026-09-01,NEW_PROVIDER
+1335211358,Linda,Ochoa,Oncology,Ochoa Medical Group,2026-09-01,NEW_PROVIDER
+1410163449,Kimberly,White,Primary Care,White Associates,2026-09-01,NEW_PROVIDER
+1446702900,Daniel,Hill,Primary Care,Hill Associates,2026-09-01,NEW_PROVIDER
+1454735690,Melissa,Mathews,Cardiology,Mathews Medical Group,2026-09-01,NEW_PROVIDER
+1462642630,Melissa,White,Gastroenterology,White Medical Group,2026-09-01,NEW_PROVIDER
+1475531546,Steven,Harvey,Orthopedics,Harvey Associates,2026-09-01,NEW_PROVIDER
+1477442985,Jeffrey,Price,Dermatology,Price Associates,2026-09-01,NEW_PROVIDER
+1515355816,Joshua,Clark,Dermatology,Clark Medical Group,2026-09-01,NEW_PROVIDER
+1520152168,William,Murphy,Dermatology,Murphy Associates,2026-09-01,NEW_PROVIDER
+1522095109,Sharon,Schultz,Oncology,Schultz Medical Group,2026-09-01,NEW_PROVIDER
+1554966848,Pamela,Edwards,Dermatology,Edwards Medical Group,2026-09-01,NEW_PROVIDER
+1577177481,Jason,Matthews,Dermatology,Matthews Medical Group,2026-09-01,NEW_PROVIDER
+1579384445,Steven,Powell,Gastroenterology,Powell Clinic,2026-09-01,NEW_PROVIDER
+1587357119,Jill,Hernandez,Orthopedics,Hernandez Clinic,2026-09-01,NEW_PROVIDER
+1599150789,Virginia,Smith,Primary Care,Smith Clinic,2026-09-01,NEW_PROVIDER
+1603475934,Mark,Holland,Dermatology,Holland Associates,2026-09-01,NEW_PROVIDER
+1617290850,Beverly,Huffman,Primary Care,Huffman Medical Group,2026-09-01,NEW_PROVIDER
+1621595663,Sara,Shelton,Orthopedics,Shelton Clinic,2026-09-01,NEW_PROVIDER
+1634696801,Dawn,Kelley,Cardiology,Kelley Associates,2026-09-01,NEW_PROVIDER
+1638210937,Megan,Douglas,Cardiology,Douglas Associates,2026-09-01,NEW_PROVIDER
+1642842816,Tony,Grant,Orthopedics,Grant Clinic,2026-09-01,NEW_PROVIDER
+1647709054,Monica,Miller,Cardiology,Miller Medical Group,2026-09-01,NEW_PROVIDER
+1670594673,Joshua,Middleton,Orthopedics,Middleton Clinic,2026-09-01,NEW_PROVIDER
+1672145452,Olivia,Marsh,Cardiology,Marsh Clinic,2026-09-01,NEW_PROVIDER
+1684276582,Rachael,Grant,Oncology,Grant Clinic,2026-09-01,NEW_PROVIDER
+1693025519,John,Moreno,Dermatology,Moreno Medical Group,2026-09-01,NEW_PROVIDER
+1695841881,Dalton,Johnson,Dermatology,Johnson Associates,2026-09-01,NEW_PROVIDER
+1718670391,Steven,Gomez,Cardiology,Gomez Associates,2026-09-01,NEW_PROVIDER
+1729946341,Christine,Gomez,Gastroenterology,Gomez Clinic,2026-09-01,NEW_PROVIDER
+1730150866,Mary,Figueroa,Orthopedics,Figueroa Associates,2026-09-01,NEW_PROVIDER
+1733805914,Wayne,Shaw,Primary Care,Shaw Clinic,2026-09-01,NEW_PROVIDER
+1744888139,Douglas,Gibson,Oncology,Gibson Medical Group,2026-09-01,NEW_PROVIDER
+1751070327,Daniel,Henson,Oncology,Henson Associates,2026-09-01,NEW_PROVIDER
+1762268089,Erica,King,Cardiology,King Medical Group,2026-09-01,NEW_PROVIDER
+1763167226,Meghan,Hudson,Orthopedics,Hudson Associates,2026-09-01,NEW_PROVIDER
+1764991678,Deanna,Jackson,Primary Care,Jackson Medical Group,2026-09-01,NEW_PROVIDER
+1767552315,Jeffrey,Hughes,Gastroenterology,Hughes Medical Group,2026-09-01,NEW_PROVIDER
+1769225645,Daniel,Long,Oncology,Long Medical Group,2026-09-01,NEW_PROVIDER
+1791251074,Mark,James,Orthopedics,James Associates,2026-09-01,NEW_PROVIDER
+1802696563,Jill,Brown,Dermatology,Brown Associates,2026-09-01,NEW_PROVIDER
+1808760904,Lauren,Boyd,Primary Care,Boyd Clinic,2026-09-01,NEW_PROVIDER
+1827052624,Heather,Webster,Primary Care,Webster Medical Group,2026-09-01,NEW_PROVIDER
+1846179687,Steve,Lowery,Gastroenterology,Lowery Clinic,2026-09-01,NEW_PROVIDER
+1852175987,Nancy,Michael,Orthopedics,Michael Clinic,2026-09-01,NEW_PROVIDER
+1856554038,Jacob,Hayes,Gastroenterology,Hayes Clinic,2026-09-01,NEW_PROVIDER
+1872629430,Gregory,Guzman,Oncology,Guzman Medical Group,2026-09-01,NEW_PROVIDER
+1892061002,Stacy,Bryant,Primary Care,Bryant Associates,2026-09-01,NEW_PROVIDER
+1893184891,Timothy,Logan,Primary Care,Logan Clinic,2026-09-01,NEW_PROVIDER
+1931355094,Paula,Ferguson,Oncology,Ferguson Clinic,2026-09-01,NEW_PROVIDER
+1934058370,Jessica,Peterson,Oncology,Peterson Associates,2026-09-01,NEW_PROVIDER
+1958090351,Alexander,Gentry,Cardiology,Gentry Medical Group,2026-09-01,NEW_PROVIDER
+1974943702,Maria,Owen,Gastroenterology,Owen Clinic,2026-09-01,NEW_PROVIDER
+1990825510,Kevin,Lindsey,Cardiology,Lindsey Clinic,2026-09-01,NEW_PROVIDER
